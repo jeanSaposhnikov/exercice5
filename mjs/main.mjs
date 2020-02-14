@@ -5,6 +5,8 @@ let elmEntete = document.querySelector("header .global");
 const animEntete = new anim_entete(elmEntete);
 animEntete.anim();
 const elmSlider = document.querySelector('.mon-slider')
-console.log(elmSlider.tagName)
+//console.log(elmSlider.tagName)
 let mon_slider = new Slider(elmSlider, config_slider)
 mon_slider.creerSlider()
+
+//document.querySelectorAll(".slides")[0].style.border="7px solid";

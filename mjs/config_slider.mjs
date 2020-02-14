@@ -5,17 +5,17 @@ export const config_slider = {
 
     list_slide : [
         {
-            titre : 'Le Titre',
+            titre : 'Paysage 1',
             sousTitre : 'Le sous titre',
             img : 'img/1.jpeg'
         },
         {
-            titre : 'Le Titre',
+            titre : 'Paysage 2',
             sousTitre : 'Le sous titre',
             img : 'img/2.jpeg'
         },
         {
-            titre : 'Le Titre',
+            titre : 'Bonhomme de neige',
             sousTitre : 'Le sous titre',
             img : 'img/3.jpeg'
         }
